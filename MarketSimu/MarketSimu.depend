@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528756470 source:d:\proyectomarket\marketsimu\marketsimu\tester.cpp
+	"Tester.h"
+	<iostream>
+
+1528756278 d:\proyectomarket\marketsimu\marketsimu\tester.h
+
